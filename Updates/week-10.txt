@@ -1,3 +1,3 @@
 Passcodes: Ball python and Viper.
-Participation: This week's Participation was that I had my camera on when zooming in. 
+Participation: This week's Participation was that I had my camera on when zooming in and attending office hours. 
 project: I have made two players play each other and diplayed who the winner.
