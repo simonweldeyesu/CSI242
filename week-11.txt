@@ -1,0 +1,3 @@
+Passcodes: Admiral and Wolf.
+Participation: This week's Participation was that I had my camera on when zooming in, asking questions as well answering. 
+project: I finished the Tic Tac Toe game, I did where you play with your friend and AI.  
